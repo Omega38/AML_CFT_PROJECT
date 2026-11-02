@@ -74,7 +74,7 @@ AML_CFT/
     ├── transactions_clean.csv
     └── transactions_quarantine.csv
 ```
-Le notebook recherche le CSV à côté de lui, dans `data/raw/`, ou dans le chemin relatif historique `../data/raw/`.
+Le notebook recherche le CSV à côté de lui.
 
 ## 7. Étapes de traitement
 1. Chargement et validation du schéma.
